@@ -5,8 +5,8 @@ def game_hash
       :team_name => "Brooklyn Nets",
       :colors => "Black, White",
       :players => [
-        "Alan Anderson",
-        Reggie Evanrook Lopez  | Mason Plumlee | Jason Terry
+        {
+          :player_name => ""
         ]
     }, 
     :away => {
